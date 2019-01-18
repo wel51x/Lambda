@@ -1,0 +1,6 @@
+[submodule "DS-Unit-1-Sprint-2-Data-Wrangling"]
+	path = DS-Unit-1-Sprint-2-Data-Wrangling
+	url = https://github.com/wel51x/DS-Unit-1-Sprint-2-Data-Wrangling
+[submodule "DS-Sprint-01-Dealing-With-Data"]
+	path = DS-Sprint-01-Dealing-With-Data
+	url = https://github.com/wel51x/DS-Sprint-01-Dealing-With-Data
